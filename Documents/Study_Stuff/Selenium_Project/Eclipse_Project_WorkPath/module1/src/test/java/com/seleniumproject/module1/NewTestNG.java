@@ -10,9 +10,10 @@ public class NewTestNG {
 	    private WebDriver driver;		
 		@Test				
 		public void testEasy() {	
-			driver.get("http://demo.guru99.com/test/guru99home/");  
+			driver.get("htt://demo.guru99.com/test/guru99home/");  
 			String title = driver.getTitle();				 
 			Assert.assertTrue(title.contains("Demo Guru99 Page")); 		
+			System.out.println("hello");
 		}	
 		@BeforeTest
 		public void beforeTest() {	

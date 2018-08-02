@@ -1,0 +1,21 @@
+Started by user [8mha:////4GGAhsSKSgHSB7NfhXjqDTUjSx3/fACdwb3IuyuGuyPeAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building in workspace C:\Users\shilpa\Documents\Shilpa_Testing\AutomationTesting
+[AutomationTesting] $ cmd /c call C:\Users\shilpa\AppData\Local\Temp\jenkins4772266287861147441.bat
+
+C:\Users\shilpa\Documents\Shilpa_Testing\AutomationTesting>sample.bat
+
+C:\Users\shilpa\Documents\Shilpa_Testing\AutomationTesting>java -cp bin;lib/* org.testng.TestNG testng.xml 
+Starting ChromeDriver 2.29.461591 (62ebf098771772160f391d75e589dc567915b233) on port 48583
+Only local connections are allowed.
+Sep 12, 2017 5:08:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+===============================================
+Suite
+Total tests run: 0, Failures: 0, Skips: 0
+===============================================
+
+
+C:\Users\shilpa\Documents\Shilpa_Testing\AutomationTesting>pause
+Press any key to continue . . . 
+Finished: SUCCESS
